@@ -1,4 +1,4 @@
-# Contact Deduplication API
+# MONRIDE (Contact Deduplication API)
 
 This is a small project I made to handle contact information (email and phone numbers).  
 It checks if a contact already exists and groups related ones together using a primary and secondary contact system.

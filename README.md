@@ -26,7 +26,7 @@ Send this:
   "phoneNumber": "1234567890"
 }
 
-// the result would be this
+
 {
   "contact": {
     "primaryContactId": 1,
@@ -36,21 +36,6 @@ Send this:
   }
 }
 
-//If the same person signs up again with different info, it will link them under the same primaryContactId,
-
-//🧑‍💻 Tech Used
-//Python
-
-//Flask
-
-//SQLite
-
-//SQLAlchemy
-
-
-//HOW TO RUN
-//pip install -r requirement.txt
-//python task.py
 
 
 

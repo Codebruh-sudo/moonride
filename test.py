@@ -1,6 +1,7 @@
 # test_shadow.py
 import unittest
-from app import app, db
+from task import app
+from database import db
 from models import Contact
 
 class ShadowOpsTest(unittest.TestCase):

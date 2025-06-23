@@ -6,7 +6,7 @@ git clone https://github.com/codebruh-sudo/MOONRIDE.git
 
 
 # install dependencies
-pip install -r requirement.txt
+pip install -r requirements.txt
 
 # run locally
 python task.py

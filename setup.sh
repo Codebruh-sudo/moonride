@@ -2,8 +2,8 @@
 #! /bin/bash
 
 # clone
-git clone https://github.com/YOUR_USERNAME/MOONRIDE.git
-cd contact-deduplication-api
+git clone https://github.com/codebruh-sudo/MOONRIDE.git
+
 
 # install dependencies
 pip install -r requirement.txt
@@ -12,4 +12,5 @@ pip install -r requirement.txt
 python task.py
 
 # test
-python test_shadow.py
+python test.py
+ echo " your code is successfully deployed"
